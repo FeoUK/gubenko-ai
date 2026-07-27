@@ -1,0 +1,54 @@
+schema_version: 1
+owner: Alexander Gubenko
+brand: Gubenko AI
+projects:
+  - id: local-ai-support-rag
+    title: Local AI Technical Support Platform
+    status: active
+    domains: [applied-ai, rag, ocr, documentation]
+    visibility: sanitized-public-case
+  - id: hormob-offline-first
+    title: HorMob Offline-First MVP
+    status: paused
+    domains: [mobile, offline-first, maps, rtc]
+    visibility: sanitized-public-case
+  - id: virtual-ai-company
+    title: Virtual AI Company
+    status: concept-development
+    domains: [multi-agent-ai, orchestration, product-architecture]
+    visibility: sanitized-public-case
+  - id: mobile-data-center
+    title: Mobile Data Center Architecture
+    status: architecture-completed
+    domains: [infrastructure, networking, resilience, security]
+    visibility: sanitized-public-case
+  - id: vpn-management
+    title: VPN Management and Secure Access
+    status: operational
+    domains: [vpn, security, automation, monitoring]
+    visibility: sanitized-public-case
+  - id: infrastructure-monitoring
+    title: Infrastructure Monitoring and Watchdogs
+    status: operational
+    domains: [zabbix, telegram, linux, automation]
+    visibility: sanitized-public-case
+  - id: edc488s-data-acquisition
+    title: EDC488S Data Acquisition Utility
+    status: working-utility
+    domains: [python, serial, hardware, data-parsing]
+    visibility: public-case-after-redaction
+  - id: legal-ip-damage-packages
+    title: Legal IP Damage Assessment Packages
+    status: practical-workflow
+    domains: [legal, finance, documentation, analysis]
+    visibility: anonymized-case
+  - id: secure-rtc-stack
+    title: Secure RTC and Collaboration Infrastructure
+    status: operational-evolving
+    domains: [matrix, livekit, docker, rtc, security]
+    visibility: sanitized-public-case
+  - id: ai-media-workflows
+    title: AI Media and LoRA Workflows
+    status: experimental-active
+    domains: [generative-ai, comfyui, lora]
+    visibility: selected-public-materials
